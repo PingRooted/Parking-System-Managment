@@ -1,3 +1,9 @@
+//Md. Zahidul Islam
+//Daffodil International University
+//221-35-1082
+//Whatsapp: +801878658595
+//Facebook: facebook.com/zahidshurma
+
 #include<stdio.h>
 #include<windows.h>
 #include<conio.h>
